@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shane!
+<h1>Hello, I'm Shane!
 
 
 <h2>👨‍💻 IT & Cyber Secuirty Projects:</h2>
@@ -17,6 +17,11 @@
 
 
 
-<h2> 🤳 Connect with me on Linkedin :</h2>
-<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" 
+<h2> 🤳 Connect with me on Linkedin:</h2>
 
+
+<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+
+
+[linkedin]: https://www.linkedin.com/in/shane-murtagh/
