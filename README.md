@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 IT & Cyber Secuirty Projects:</h2>
  
- - [Home Network LAb](https://github.com/joshmadakor1/Sentinel-Lab)
+ - [Home Network Lab](https://github.com/joshmadakor1/Sentinel-Lab)
  
  - [Private-Secure-VPN](https://github.com/ShaneMurtagh/Private-Secure-VPN/tree/main)
 
