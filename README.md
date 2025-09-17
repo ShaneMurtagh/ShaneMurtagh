@@ -7,13 +7,13 @@
  
  - [Private-Secure-VPN](https://github.com/ShaneMurtagh/Private-Secure-VPN/tree/main)
 
-<h2>📺 Certifications</h2>
+<h2>🏅 Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2>📺 Project Videos </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [ Starting From Zero]()
 
 
 
