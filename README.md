@@ -1,7 +1,7 @@
 <h1>Hello, I'm Shane!
 
 
-<h2>👨‍💻 IT & Cyber Secuirty Projects:</h2>
+<h2>👨‍💻 IT & Cyber Security Projects:</h2>
  
  - [Home Network Lab]()
  
