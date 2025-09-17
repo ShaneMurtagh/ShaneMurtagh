@@ -10,8 +10,11 @@
 <h2>🏅 Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Tryhackme Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBIDYTOJ6Q.pdf)
+
 
 <h2>📺 Project Videos </h2>
+
 
 - [ Starting From Zero]()
 
