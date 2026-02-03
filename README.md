@@ -1,10 +1,10 @@
-<h1>Hello, I'm Shane!
+<h1>Hello, I'm Shane! Welcome to my Github
 
 
 <h2>👨‍💻 IT & Cyber Security Projects:</h2>
 
- - [Private-Secure-VPN](https://github.com/ShaneMurtagh/Private-Secure-VPN/tree/main)
- - [ActiveDirectory-Lab](https://github.com/ShaneMurtagh/ActiveDirectory-Lab)
+ - [Home SOC Lab: SIEM Implementation & Network Security Monitoring](https://github.com/ShaneMurtagh/Home-SOC-Lab-SIEM-Implementation-Network-Security-Monitoring)
+ - [Secure VPN Server Deployment & Encryption Validation](https://github.com/ShaneMurtagh/Secure-VPN-Server-Deployment-Encryption-Validation)
  
  
 
