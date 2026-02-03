@@ -10,8 +10,8 @@
 
 <h2>🏅 Certifications</h2>
 
-- [Google Cybersecurity Professional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Az900 Cloud Computing](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity Professional Certificate]()
+- [Az900 Cloud Computing]()
 - [TryHackme Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBIDYTOJ6Q.pdf)
 
 
