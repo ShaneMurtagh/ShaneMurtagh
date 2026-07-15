@@ -5,6 +5,7 @@
 
  - [Home SOC Lab: SIEM Implementation & Network Security Monitoring](https://github.com/ShaneMurtagh/Home-SOC-Lab-SIEM-Implementation-Network-Security-Monitoring)
  - [Secure VPN Server Deployment & Encryption Validation](https://github.com/ShaneMurtagh/Secure-VPN-Server-Deployment-Encryption-Validation)
+ - [Active Directory Lab](https://github.com/ShaneMurtagh/Active-Directory-Lab)
  
  
 
@@ -15,7 +16,7 @@
 - [TryHackme Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBIDYTOJ6Q.pdf)
 
 
-<h2>📺 Project Videos </h2>
+
 
 
 
