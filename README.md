@@ -2,7 +2,11 @@
 
 Hello Welcome to my Cybersecurity SOC Analyst Portfolio! This repository showcases a variety of hands-on projects and real-world labs from cybersecurity certifications and personal studies. The portfolio highlights practical skills in network defense, incident response, cloud security, demonstrating my technical expertise and problem-solving capabilities.
 
----
+
+
+## 👋 About Me
+Brief 3-4 sentence intro about yourself — who you are, where you're based, what role you're targeting, your background.
+
 
 <h2>🔬 Cybersecurity & IT Projects:</h2>
 
@@ -26,7 +30,7 @@ Hello Welcome to my Cybersecurity SOC Analyst Portfolio! This repository showcas
 | SIEM | Splunk, Azure Sentinel |
 | Incident Response | Splunk, Defender XDR |
 | Identity & Access Management | Azure AD,  |
-| Database Security | SQL, MySQL |
+
 
 
 
