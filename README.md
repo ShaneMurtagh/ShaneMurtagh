@@ -11,10 +11,10 @@
 
 <h2>🏅 Certifications</h2>
 
-- [Google Cybersecurity Professional Certificate]()
-- [Google Cybersecurity Professional Certificate]()
-- [Google Cybersecurity Professional Certificate]()
-- [Az900 Cloud Computing]()
+- [CompTIA Security+](https://cp.certmetrics.com/comptia/en/public/verify/credential/b98c962264a344fb94fadb92ae628d78)
+- [Microsoft IT Support Specialist](https://www.coursera.org/account/accomplishments/professional-cert/certificate/42T5L9ISA13G)
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/7QXJ3Y2U5J4B)
+- [Microsoft Az900]()
 - [TryHackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBIDYTOJ6Q.pdf)
 
 
