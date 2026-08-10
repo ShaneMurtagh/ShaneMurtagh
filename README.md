@@ -27,7 +27,7 @@ Brief 3-4 sentence intro about yourself — who you are, where you're based, wha
 | Cloud Security | Microsoft Azure, AWS |
 | Threat Detection | Microsoft Defender, Splunk |
 | Scripting & Automation | Python, Bash |
-| SIEM | Splunk, Azure Sentinel |
+| SIEM | Splunk, Sentinel |
 | Incident Response | Splunk, Defender XDR |
 | Identity & Access Management | Azure AD,  |
 
