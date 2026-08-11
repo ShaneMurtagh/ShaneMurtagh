@@ -5,10 +5,11 @@ Hello Welcome to my Cybersecurity SOC Analyst Portfolio! This repository showcas
 
 
 ## 👋 About Me
-Brief 3-4 sentence intro about yourself — who you are, where you're based, what role you're targeting, your background.
+Aspiring SOC Analyst | Cybersecurity & IT Professional | CCT Collage Dublin Student
+Based in Ireland 
 
 
-<h2>🔬 Cybersecurity & IT Projects:</h2>
+<h2>🔬 Featured Cybersecurity Projects:</h2>
 
  - [Home SOC Lab: SIEM Implementation & Network Security Monitoring](https://github.com/ShaneMurtagh/Home-SOC-Lab-SIEM-Implementation-Network-Security-Monitoring)
  - [Secure VPN Server Deployment & Encryption Validation](https://github.com/ShaneMurtagh/Secure-VPN-Server-Deployment-Encryption-Validation)
