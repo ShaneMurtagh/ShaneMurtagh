@@ -35,7 +35,7 @@ Brief 3-4 sentence intro about yourself — who you are, where you're based, wha
 
 
 
-<h2>🏅 My Certifications </h2>
+<h2>✅ My Certifications </h2>
 
 - [CompTIA Security+](https://cp.certmetrics.com/comptia/en/public/verify/credential/b98c962264a344fb94fadb92ae628d78)
 - [Microsoft IT Support Specialist](https://www.coursera.org/account/accomplishments/professional-cert/certificate/42T5L9ISA13G)
