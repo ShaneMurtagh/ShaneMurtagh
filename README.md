@@ -6,7 +6,7 @@ My goal is to continuously develop my technical skills and demonstrate my abilit
 
 
 
-<h2>🔬 Featured Cybersecurity Projects:</h2>
+<h2>🔬 Featured Projects:</h2>
 
  - [Home SOC Lab: SIEM Implementation & Network Security Monitoring](https://github.com/ShaneMurtagh/Home-SOC-Lab-SIEM-Implementation-Network-Security-Monitoring)
  - [Secure VPN Server Deployment & Encryption Validation](https://github.com/ShaneMurtagh/Secure-VPN-Server-Deployment-Encryption-Validation)
