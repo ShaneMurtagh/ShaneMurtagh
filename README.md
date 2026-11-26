@@ -1,12 +1,9 @@
-# 🛡️ Cybersecurity SOC Analyst Portfolio
+# 🛡️ IT Support & Systems Administration
 
-Hello Welcome to my Cybersecurity SOC Analyst Portfolio! This repository showcases a variety of hands-on projects and real-world labs from cybersecurity certifications and personal studies. The portfolio highlights practical skills in network defense, incident response, cloud security, demonstrating my technical expertise and problem-solving capabilities.
+Welcome to my portfolio! This repository showcases hands-on projects, practical labs, and technical learning in IT Support, Systems Administration, Networking, and Cybersecurity. It highlights the skills I've developed through certifications, independent study, and practical lab environments, including Windows troubleshooting, network configuration, system administration, security monitoring, and incident response.
 
+My goal is to continuously develop my technical skills and demonstrate my ability to troubleshoot, solve problems, and support IT systems while building a career in IT and cybersecurity.
 
-
-## 👋 About Me
-Aspiring SOC Analyst | Cybersecurity & IT Professional | CCT Collage Dublin Student
-Based in Ireland 
 
 
 <h2>🔬 Featured Cybersecurity Projects:</h2>
